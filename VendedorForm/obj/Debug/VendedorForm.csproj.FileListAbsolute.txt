@@ -1,0 +1,11 @@
+C:\Users\JVIETTI\source\repos\WindowsStatic\VendedorForm\bin\Debug\VendedorForm.exe.config
+C:\Users\JVIETTI\source\repos\WindowsStatic\VendedorForm\bin\Debug\VendedorForm.exe
+C:\Users\JVIETTI\source\repos\WindowsStatic\VendedorForm\bin\Debug\VendedorForm.pdb
+C:\Users\JVIETTI\source\repos\WindowsStatic\VendedorForm\obj\Debug\VendedorForm.csproj.AssemblyReference.cache
+C:\Users\JVIETTI\source\repos\WindowsStatic\VendedorForm\obj\Debug\VendedorForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\JVIETTI\source\repos\WindowsStatic\VendedorForm\obj\Debug\VendedorForm.Form1.resources
+C:\Users\JVIETTI\source\repos\WindowsStatic\VendedorForm\obj\Debug\VendedorForm.Properties.Resources.resources
+C:\Users\JVIETTI\source\repos\WindowsStatic\VendedorForm\obj\Debug\VendedorForm.csproj.GenerateResource.cache
+C:\Users\JVIETTI\source\repos\WindowsStatic\VendedorForm\obj\Debug\VendedorForm.csproj.CoreCompileInputs.cache
+C:\Users\JVIETTI\source\repos\WindowsStatic\VendedorForm\obj\Debug\VendedorForm.exe
+C:\Users\JVIETTI\source\repos\WindowsStatic\VendedorForm\obj\Debug\VendedorForm.pdb
